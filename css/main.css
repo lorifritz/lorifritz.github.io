@@ -1,5 +1,5 @@
-.container {
-  font-style: script;
-  font-color: blue;
+h1 {
+	font-size: 32px;
+  font-family: Palatino, 'Palatino Linotype', serif;
+  color: blue;
 }
-
