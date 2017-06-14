@@ -1,0 +1,36 @@
+#logo {
+    width: 60px;
+    height; 60px;
+}
+.right_column {
+    float: right;
+    width: 160px;
+    }
+.left_column {
+    margin-right: 170px;
+    }
+ul {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    list-style-type: none;
+    margin-bottom: 15px;
+    background-color: #0099ff;
+    display: cover;
+    }
+    
+    li 
+    {
+        display: inline-block;
+        margin-right: 0px;
+        margin-left: 0px;
+    }
+a {
+   display: inline-block;
+   text-decoration: none;
+   padding: 5px;
+   color: white;
+    }
+    a:hover {
+        background-color: red;
+    }
