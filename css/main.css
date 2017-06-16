@@ -16,6 +16,14 @@
 .image-sized {
 	width: 400px;
 	height: 400px;
+	margin: 0 auto;
+}
+
+.image-sized .row div {
+    display: inline-block;
+    width: 32%;
+    background-position: center;
+    background-size: cover;
 }
 
 ul {
