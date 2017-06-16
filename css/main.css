@@ -14,7 +14,7 @@
     margin-right: 170px;
     }
 ul {
-	
+	position: absolute;
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
@@ -44,7 +44,7 @@ a {
 	position: absolute;
     }
     a:hover {
-	    font-size: larger;
+	    font-size: 24px;
         line-height: 24px;
 	    z-index: -1;
 	    position: absolute;
