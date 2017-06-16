@@ -26,6 +26,14 @@
     background-size: cover;
 }
 
+
+#r1c1 { background-image: url(images/r1c1.png); }
+#r1c2 { background-image: url(images/r1c1.png); }
+#r2c1 {	background-image: url(images/r1c1.png); }
+#r2c2 { background-image: url(images/r3c3.png); }
+
+
+
 ul {
 	margin-left: -15px;
     text-align: center;
