@@ -6,18 +6,26 @@
   color: #204060;
 }
 
-.left_column {
-	width: 32%;
-	float: left;
-	padding: 10px;
-	margin: 10px;
+.supporting {
+  padding-top: 80px;
+  padding-bottom: 100px;
 }
 
-.right_column {
-	width: 32%;
-	float: right;
-	padding: 10px;
-	margin: 10px;
+.supporting .col {
+  float: left;
+  width: 25%;
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+}
+
+.supporting img {
+  height: 32px;
+}
+
+.supporting h2 {
+  font-weight: 600;
+  font-size: 23px;
+  text-transform: uppercase;
 }
 
 
