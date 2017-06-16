@@ -8,10 +8,12 @@
 
 .left_column {
 	width: 50%;
+	float: left;
 }
 
 .right_column {
 	width: 50%;
+	float: right;
 }
 
 
