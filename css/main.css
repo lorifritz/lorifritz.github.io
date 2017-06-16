@@ -7,13 +7,15 @@
 }
 
 .left_column {
-	width: 50%;
-	float: left;
+	width: 32%;
+	float: right;
+	padding: 10px;
 }
 
 .right_column {
-	width: 50%;
-	float: right;
+	width: 32%;
+	float: left;
+	padding: 10px;
 }
 
 
