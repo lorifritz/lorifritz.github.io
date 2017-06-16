@@ -14,7 +14,6 @@
     margin-right: 170px;
     }
 ul {
-	position: absolute;
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
@@ -41,11 +40,11 @@ a {
    color: white;
 	font-size:18px;
 	z-index: 2;
-	position: absolute;
+	
     }
     a:hover {
 	    font-size: 24px;
-        line-height: 24px;
+
 	    z-index: -1;
-	    position: absolute;
+	    
     }
