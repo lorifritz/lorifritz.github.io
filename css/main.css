@@ -41,22 +41,14 @@ a {
    padding: 10px;
    color: white;
 	font-size:24px;
-	z-index: 2;
+	
 	font-family: century gothic, Arial, Helvetica, sans-serif;
 	
     }
     a:hover {
 	    font-weight: bold;
 border-bottom: 2px solid white;
-	    z-index: -1;
+	 
 	    
     }
-a::after {
-    display:block;
-    content:attr(title);
-    font-weight:bold;
-    height:1px;
-    color:transparent;
-    overflow:hidden;
-    margin-bottom:-1px;
-}
+
