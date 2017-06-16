@@ -29,10 +29,13 @@
   text-transform: uppercase;
 }
 
-
+.container {
+	margin-left: -5px;
+}
 
 ul {
 	margin-left: -15px;
+	margin-right: -15px;
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
