@@ -13,24 +13,10 @@
 	margin: 170px;
 }
 
-.image-sized {
-	width: 90%;
-	margin: 0 auto;
+img {
+	height: 350px;
+	width: 530px;
 }
-
-.image-sized .row div {
-    display: inline-block;
-    width: 32%;
-    background-position: center;
-    background-size: cover;
-}
-
-
-#r1c1 { background-image: url(http://4.bp.blogspot.com/-WZqoXCL8O_s/VdXRH8yBSOI/AAAAAAAAh50/eztRp56jjJA/s1600/Florida-Orlando-760798.jpg); }
-#r1c2 { background-image: url(images/r1c1.png); }
-#r2c1 {	background-image: url(images/r1c1.png); }
-#r2c2 { background-image: url(images/r3c3.png); }
-
 
 
 ul {
@@ -63,7 +49,7 @@ a {
    padding: 10px;
    color: white;
 	font-size:24px;
-	
+	border-bottom: 2px solid white;
 	font-family: century gothic, Arial, Helvetica, sans-serif;
 	
     }
