@@ -33,12 +33,12 @@ ul {
         width: 20%;
         height: 100%;
         border-width: 4px;
-	    padding: 8px;
+	    padding: 10px;
     }
 a {
    display: inline-block;
    text-decoration: none;
-   padding: 5px;
+   padding: 10px;
    color: white;
 	font-size:24px;
 	z-index: 2;
