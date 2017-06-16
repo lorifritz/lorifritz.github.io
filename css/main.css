@@ -29,6 +29,9 @@
   text-transform: uppercase;
 }
 
+.container {
+	margin-left: -15px;
+}
 
 ul {
 	margin-left: -15px;
