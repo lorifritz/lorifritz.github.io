@@ -47,7 +47,7 @@ a {
     }
     a:hover {
 	    font-weight: bold;
-font-color: #204060
+color: #204060
 	    z-index: -1;
 	    
     }
