@@ -51,3 +51,12 @@ border-bottom: 2px solid white;
 	    z-index: -1;
 	    
     }
+a::after {
+    display:block;
+    content:attr(title);
+    font-weight:bold;
+    height:1px;
+    color:transparent;
+    overflow:hidden;
+    margin-bottom:-1px;
+}
