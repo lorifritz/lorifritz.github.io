@@ -10,12 +10,9 @@
  float: right;
     }
 .left_column {
+	margin: 170px;
 }
 
-.row {
-	max-height: 400px;
-	max-width: 500px;
-}
 
 ul {
 	margin-left: -15px;
