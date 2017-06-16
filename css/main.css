@@ -6,7 +6,13 @@
   color: #204060;
 }
 
+left_column {
+	width: 50%;
+}
 
+right_column {
+	width: 50%;
+}
 
 
 ul {
