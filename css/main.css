@@ -13,6 +13,10 @@
 	margin: 170px;
 }
 
+img.resize {
+	width: 400px;
+	height: 400px;
+}
 
 ul {
 	margin-left: -15px;
