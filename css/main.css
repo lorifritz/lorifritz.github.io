@@ -48,7 +48,7 @@ a {
     a:hover {
 	    font-weight: bold;
 border-bottom: 2px solid white;
-	 
+	 display: inline-block;
 	    
     }
 
