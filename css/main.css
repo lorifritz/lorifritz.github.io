@@ -27,6 +27,11 @@
   font-weight: 600;
   font-size: 23px;
   text-transform: uppercase;
+	color: #204060;
+}
+
+p {
+	color: #204060;
 }
 
 .container {
