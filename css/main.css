@@ -6,17 +6,7 @@
   color: #204060;
 }
 
-.right_column {
- float: right;
-    }
-.left_column {
-	margin: 170px;
-}
 
-.img {
-	height: 350px;
-	width: 530px;
-}
 
 
 ul {
@@ -49,7 +39,7 @@ a {
    padding: 10px;
    color: white;
 	font-size:24px;
-	border-bottom: 2px solid transparent;
+	
 	font-family: century gothic, Arial, Helvetica, sans-serif;
 	
     }
@@ -60,8 +50,4 @@ border-bottom: 2px solid white;
 	    
     }
 
-col {
-width: 32%;
-height: 32%;
-}
 
