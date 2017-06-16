@@ -3,7 +3,7 @@
     height; 100px;
 	font-size: 60px;
   font-family: Palatino, 'Palatino Linotype', serif;
-  color: blue;
+  color: #204060;
 }
 
 .right_column {
@@ -19,7 +19,7 @@ ul {
     padding-bottom: 20px;
     list-style-type: none;
     margin-bottom: 15px;
-    background-color: #0099ff;
+    background-color: #6699cc;
     display: cover;
     width: 100%;
     }
