@@ -7,12 +7,16 @@
 }
 
 .right_column {
-    float: right;
-    width: 160px;
+ float: right;
     }
 .left_column {
-    margin-right: 170px;
-    }
+}
+
+.row {
+	max-height: 400px;
+	max-width: 500px;
+}
+
 ul {
 	margin-left: -15px;
     text-align: center;
