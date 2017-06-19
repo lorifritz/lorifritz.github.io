@@ -25,19 +25,21 @@ body {
 }
 
 .supporting img {
-  height: 200px;
-	width: 200px;
+  height: 250px;
+	width: 250px;
 }
 
 .supporting h2 {
   font-weight: 600;
   font-size: 23px;
+font-family: century gothic, Arial, Helvetica, sans-serif;
   text-transform: uppercase;
 	color: #204060;
 }
 
 p {
 	color: #204060;
+	font-family: century gothic, Arial, Helvetica, sans-serif;
 }
 
 .container {
