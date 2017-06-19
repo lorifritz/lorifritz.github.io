@@ -15,8 +15,7 @@ body {
 
 
 .scontainer{
-    width:800px;
-    height:400px;
+    display: cover;
     padding:20px;
     border:1px solid gray;
     -webkit-box-sizing:border-box;
