@@ -14,7 +14,7 @@ body {
 }
 
 slideImg {
-	display: cover;
+	display: inline-block;
 	max-width: 100%;
 	
 }
