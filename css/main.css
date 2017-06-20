@@ -16,6 +16,7 @@ body {
 
     #scroller {
         position: relative;
+	    display: cover;
     }
     #scroller .innerScrollArea {
         overflow: hidden;
