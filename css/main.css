@@ -20,12 +20,13 @@ body {
 }
 
 .scontainer {
-  margin: 0;
-  max-width: 750px;
+  margin: 20px;
+  display: cover;
   margin:10vh auto 0 auto;
 }
 
 .scontainer > div {
+	display: cover;
   display: inline-block;
 }
 
@@ -33,6 +34,7 @@ body {
   margin: 20px;
 	position: relative;
 	display: cover;
+	padding: 20px
 }
 
 #slideshow > div {
