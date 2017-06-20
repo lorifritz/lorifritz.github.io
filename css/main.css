@@ -16,7 +16,7 @@ body {
 slideImg {
 	display: inline;
 	max-width: 100%;
-	align: center;
+	float: center;
 }
 
 
