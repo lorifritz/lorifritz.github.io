@@ -50,7 +50,7 @@ body {
   border: solid 1px #283593;
 }
 
-a {
+a .arrowR .arrowL {
   width: 40px;
   font-size: 64px;
   display: inline-block;
