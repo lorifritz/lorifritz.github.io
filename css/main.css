@@ -16,7 +16,9 @@ body {
 slideImg {
 	display: inline;
 	max-width: 100%;
-	float: center;
+	top: 50%;
+	left: 50%;
+	position: absolute;
 }
 
 
