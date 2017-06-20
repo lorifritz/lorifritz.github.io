@@ -1,4 +1,4 @@
-alert('Hello JavaScript!');
+
 var interval = 1500; var random_display = 0; var imageDir = "my_images/";
 var imageNum = 0; imageArray = new Array(); imageArray[imageNum++] = new imageItem(imageDir + "01.jpg");
 imageArray[imageNum++] = new imageItem(imageDir + "02.jpg"); imageArray[imageNum++] = new imageItem(imageDir + "03.jpg"); imageArray[imageNum++] = new imageItem(imageDir + "04.jpg"); imageArray[imageNum++] = new imageItem(imageDir + "05.jpg");
