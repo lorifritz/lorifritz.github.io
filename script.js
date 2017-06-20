@@ -1,5 +1,10 @@
-
-    $(function(){
+<script type="text/javascript">
+$(document).ready(function(){
+     $("#myCarousel").carousel();
+});
+</script>
+    
+$(function(){
         var scroller = $('#scroller div.innerScrollArea');
         var scrollerContent = scroller.children('ul');
         scrollerContent.children().clone().appendTo(scrollerContent);
