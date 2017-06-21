@@ -6,8 +6,7 @@ body {
 
 #logo {
 	position: relative;
-	top: 50%;
-	left: 50%;
+	
     width: auto;
     height: auto;
 	font-size: 60px;
@@ -25,7 +24,7 @@ body {
 ul {
     text-align: center;
     background-color: #6699cc;
-    display: inline;
+    display: cover;
 	margin: 0px 0px 15px 0px;
 padding: 20px 0px 20px 0px;
 	width: auto;
@@ -37,6 +36,7 @@ padding: 20px 0px 20px 0px;
         margin-left: 0px;
         width: 15%;
         height: 100%;
+	    padding: 15px;
     }
 
 a {
