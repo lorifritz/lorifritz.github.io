@@ -40,19 +40,16 @@ ul {
         margin-left: 0px;
         width: 15%;
         height: 100%;
-        border-width: 4px;
-	    padding: 10px;
     }
 
 a {
    display: inline-block;
 	height: 50%;
    text-decoration: none;
-   padding: 10px;
    color: white;
 	font-size:24px;
 	font-family: century gothic, Arial, Helvetica, sans-serif;
-	border-bottom: 0px;
+	border-bottom: 2px transparent;
     }
 
     a:hover {
