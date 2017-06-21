@@ -64,4 +64,5 @@ header {
 	height: 500px;
 	display: inline-block;
 	background-size: cover;
+	opacity: 0.5;
 }
