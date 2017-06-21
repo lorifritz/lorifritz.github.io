@@ -8,8 +8,8 @@ body {
 	position: relative;
 	top: 50%;
 	left: 50%;
-    width: 900px;
-    height; 100px;
+    width: auto;
+    height: auto;
 	font-size: 60px;
   font-family: century gothic, Arial, Helvetica, sans-serif;
   color: #204060;
@@ -28,6 +28,7 @@ ul {
     display: inline;
 	margin: 0px 0px 15px 0px;
 padding: 20px 0px 20px 0px;
+	width: auto;
     }
     
     li {
