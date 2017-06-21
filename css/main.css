@@ -4,6 +4,11 @@ body {
 	background-color: #cce6ff;
 }
 
+#header {
+	background-image: http://www.11alive.com/img/resize/content.11alive.com/photo/2016/07/01/download%20_OP_5_CP__1467415004847_3661843_ver1.0.jpg?preset=534-401;
+	
+}
+
 #logo {
 	position: relative;
 	text-align: center;
