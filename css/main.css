@@ -25,7 +25,7 @@ body {
 ul {
     text-align: center;
     background-color: #6699cc;
-    display: block;
+    display: inline-block;
 	margin: 0px 0px 15px 0px;
 padding: 20px 0px 20px 0px;
     }
