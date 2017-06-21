@@ -24,9 +24,8 @@ body {
 
 ul {
     text-align: center;
-    list-style-type: none;
     background-color: #6699cc;
-    display: cover;
+    display: block;
 	margin: 0px 0px 15px 0px;
 padding: 20px 0px 20px 0px;
     }
