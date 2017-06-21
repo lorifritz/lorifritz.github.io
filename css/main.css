@@ -9,6 +9,7 @@ body {
 }
 	
 #logo {
+	display: block;
 	position: relative;
 	text-align: center;
     width: auto;
