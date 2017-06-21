@@ -4,7 +4,8 @@ body {
 	background-image: url('http://i67.tinypic.com/23wtvnl.jpg');
 }
 
-	
+
+
 #logo {
 	display: block;
 	position: relative;
@@ -15,7 +16,7 @@ body {
   font-family: century gothic, Arial, Helvetica, sans-serif;
   color: white;
 	margin-top: 25px;
-	
+	background-color: #6699cc;
 }
 
 
