@@ -16,7 +16,7 @@ body {
   color: #204060;
 	margin-top: 25px;
 	margin-bottom: 25px;
-	opacity: 1;
+	
 }
 
 
@@ -65,5 +65,5 @@ header {
 	height: 500px;
 	display: inline-block;
 	background-size: cover;
-	opacity: 0.5;
+	opacity: 1;
 }
