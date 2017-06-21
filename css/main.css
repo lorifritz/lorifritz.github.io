@@ -24,13 +24,11 @@ body {
 
 ul {
     text-align: center;
-    padding-top: 20px;
-    padding-bottom: 20px;
     list-style-type: none;
-    margin-bottom: 15px;
     background-color: #6699cc;
     display: cover;
-
+	margin: 0px 0px 15px 0px;
+padding: 20px 0px 20px 0px;
     }
     
     li {
