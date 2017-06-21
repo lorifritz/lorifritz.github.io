@@ -64,6 +64,4 @@ header {
 	height: 500px;
 	display: inline-block;
 	background: url(images/bg.jpg); 
-  
-  background-size: cover;
 }
