@@ -4,8 +4,6 @@ body {
 	background-image: url('http://i67.tinypic.com/23wtvnl.jpg');
 }
 
-
-
 #logo {
 	display: block;
 	position: relative;
@@ -18,11 +16,6 @@ body {
 	margin-top: 25px;
 	background-color: #6699cc;
 }
-
-
-
-
-
 
 ul {
     text-align: center;
@@ -59,7 +52,45 @@ border-bottom: 2px solid white;
 	    
     }
 
+.storydiv {
+    height:182px;
+    width:355px;
+    padding-left:175px;
+    top:0px;
+    left:0px;
+	position:absolute;
+}
 
+#story1 {
+    background:url(https://my-azur.de/load/f/o/2014-12-15_09-09-49_google%20maps.png) no-repeat;
+}
+
+#story2 {
+    background:url(http://capocerasoresort.com/media/resize/1140/0/resort-main_2.jpg) no-repeat;
+	display:none;
+}
+
+#story3 {
+    background:url(http://tamarackswimclub.com/images/staycation.jpg) no-repeat;
+	display:none;
+}
+
+#story4 {
+    background:url(http://www.visitflorida.com/content/dam/visitflorida/en-us/images/cities/st-petersburg/st.%20pete%202.jpg.1280.500.rendition) no-repeat;
+	display:none;
+}
+
+.storyDesc{
+    padding-top: 10px; 
+    padding-right: 8px;
+    display:block;
+}
+
+.fStory {
+     padding-top: 10px;
+     display:block;
+     font-weight:bold;
+}
 
 
 
