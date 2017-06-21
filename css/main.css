@@ -59,12 +59,12 @@ border-bottom: 2px solid white;
     }
 
 header {
-  background-image: IMG_1715.JPG;
+  background-image: url('http://i67.tinypic.com/23wtvnl.jpg');
 	width: 100%;
 	height: 500px;
 	display: inline-block;
 	background-size: cover;
-	opacity: 1;
+	
 }
 
 
