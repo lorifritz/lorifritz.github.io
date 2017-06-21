@@ -19,40 +19,6 @@ body {
 
 
 
-.supporting {
-  padding-top: 80px;
-  padding-bottom: 100px;
-}
-
-.supporting .column {
- float: left;
-  width: 25%;
-  font-family: 'Raleway', sans-serif;
-  text-align: center;
-}
-
-.supporting img {
-  height: 250px;
-	width: 250px;
-}
-
-.supporting h2 {
-  font-weight: 600;
-  font-size: 23px;
-font-family: century gothic, Arial, Helvetica, sans-serif;
-  text-transform: uppercase;
-	color: #204060;
-}
-
-p {
-	color: #204060;
-	font-family: century gothic, Arial, Helvetica, sans-serif;
-}
-
-.container {
-	margin-left: -5px;
-}
-
 ul {
     text-align: center;
     padding-top: 20px;
