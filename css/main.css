@@ -4,7 +4,7 @@ body {
 }
 
 header {
-  background-image: url(http://www.lordssouthbeach.com/wp-content/uploads/2016/02/best-Florida-hotels.jpg) center no-repeat;
+  background-image: url('http://www.lordssouthbeach.com/wp-content/uploads/2016/02/best-Florida-hotels.jpg');
 	width: 100%;
 }
 	
