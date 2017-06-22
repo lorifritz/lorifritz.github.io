@@ -1,8 +1,9 @@
+$document.ready() {
 var stor = -1;
 var maxstor = 3;
 var timeout = 3500;
 
-$document.ready() {
+
 function autorot() {
 	showNext();
 	timeout = setTimeout('autorot();', timeout);
