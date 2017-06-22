@@ -60,8 +60,8 @@ border-bottom: 2px solid white;
 	position:relative;
 }
 
-#storyContainer a {
-	font-color:black;
+.storyContainer a {
+color: black;
 }
 
 #story1 {
