@@ -60,6 +60,10 @@ border-bottom: 2px solid white;
 	position:relative;
 }
 
+a .storyContainer {
+	font-color:black;
+}
+
 #story1 {
     background:url(https://my-azur.de/load/f/o/2014-12-15_09-09-49_google%20maps.png) no-repeat;
 	 height:400px;
