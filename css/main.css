@@ -53,8 +53,8 @@ border-bottom: 2px solid white;
     }
 
 #storyContainer {
-    height:300px;
-    width:600px;
+    display:cover;
+	padding-top:20px;
     padding-left:175px;
     top:0px;
     left:0px;
