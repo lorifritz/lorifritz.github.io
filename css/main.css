@@ -52,15 +52,8 @@ border-bottom: 2px solid white;
 	    
     }
 
-#storyContainer {
-    height:400px;
-	width:700px;
-	padding-top:20px;
-    padding-left:175px;
-	position:relative;
-}
 
-#storyContainer a {
+#main-slider a {
 color: black;
 }
 
@@ -88,9 +81,15 @@ color: black;
 	display:none;
 }
 
-
-.fadein { position:relative; width:500px; height:332px; }
-.fadein img { position:absolute; left:0; top:0; }
+html,body {
+	margin: 0;
+	padding: 0;
+}
+.slider {
+	width: 1024px;
+	margin: 2em auto;
+	
+}
 
 .slider-wrapper {
 	width: 100%;
