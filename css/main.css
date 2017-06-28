@@ -76,7 +76,7 @@ color: black;
 
 
 .slider {
-	width: auto;
+	width: 100%;
 	    height: 400px;
 	margin: 0 auto;
 	display: cover;
@@ -86,6 +86,7 @@ color: black;
 	width: 100%;
 	height: 400px;
 	position: absolute;
+	display: cover;
 }
 
 .slide {
@@ -95,6 +96,7 @@ color: black;
 	height: 400px;
 	opacity: 0;
 	transition: opacity 3s linear;
+	display: cover;
 }
 
 .slider-wrapper > .slide:first-child {
