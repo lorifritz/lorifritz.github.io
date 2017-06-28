@@ -98,10 +98,10 @@ html,body {
 }
 
 .slide {
-	float: left;
+	float: center;
 	position: absolute;
-	width: 100%;
-	height: 100%;
+	width: 800px;
+	height: 400px;
 	opacity: 0;
 	transition: opacity 3s linear;
 }
