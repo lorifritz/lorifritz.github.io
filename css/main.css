@@ -63,14 +63,14 @@ color: black;
 
 .link {
 	float: left;
-	margin: 15px;
+	margin-left: 15px;
 	font-size: 48px;
 	
 }
 
 .full {
 	float: right;
-	margin: 15px;
+	margin-right: 15px;
 	font-size: 18px;
 }
 
