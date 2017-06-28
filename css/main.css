@@ -91,6 +91,8 @@ html,body {
 
 .slider-wrapper {
 	position: relative;
+	width: 1200px;
+	height: 400px;
 }
 
 .slide {
