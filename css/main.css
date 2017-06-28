@@ -59,6 +59,11 @@ border-bottom: 2px solid white;
 color: black;
 }
 
+#main-slider {
+	width: 1920px;
+	height: 1080px;
+}
+
 .slider {
 	width: 1920px;
 	height: 1080px;
@@ -67,7 +72,8 @@ color: black;
 }
 
 .slider-wrapper {
-	
+	width: 1920px;
+	height: 1080px;
 	position: relative;
 }
 
