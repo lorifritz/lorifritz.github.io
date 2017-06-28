@@ -99,9 +99,10 @@ html,body {
 	position: absolute;
 	opacity: 0;
 	transition: opacity 3s linear;
-	
+	height:400px;
+	width:700px;
+	padding-top:20px;
     
-	
 }
 
 .slider-wrapper > .slide:first-child {
