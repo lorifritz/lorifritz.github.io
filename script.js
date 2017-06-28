@@ -1,4 +1,4 @@
-$document.ready(function() {
+(function() {
 	
 	function Slideshow( element ) {
 		this.el = document.querySelector( element );
