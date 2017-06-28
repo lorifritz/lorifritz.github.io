@@ -59,21 +59,26 @@ color: black;
 
 #story1 {
     background:url(http://uvmbored.com/wp-content/uploads/2016/10/banner_location_map.jpg) no-repeat;
-	 
+	width: 1024px;
+	    height: 400px; 
 }
 
 #story2 {
     background:url(https://usastudenttour.com/wp-content/uploads/2011/04/banner-L3-4-miami-beach.jpg) no-repeat;
-	
+	width: 1024px;
+	    height: 400px;
 }
 
 #story3 {
     background:url(https://discover.rbcroyalbank.com/wp-content/uploads/banner-small-staycation-the-best-staycation_402x.jpg) no-repeat;
-	
+	width: 1024px;
+	    height: 400px;
 }
 
 #story4 {
     background:url(http://plumberorlando.com/wp-content/uploads/2014/10/banner-image1.jpg) no-repeat;
+	width: 1024px;
+	    height: 400px;
 	    }
 	
 
