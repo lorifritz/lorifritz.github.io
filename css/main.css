@@ -77,35 +77,25 @@ color: black;
 	
 }
 
-html,body {
-	margin: 0;
-	padding: 0;
-}
+
 .slider {
-	height: 400px;
-	
-	margin: 2em auto;
-	width: 100%
-	
+	width: 1024px;
+	margin: 2em auto;	
 }
 
 .slider-wrapper {
-	position: absolute;
-	right: 0;
-	left: 0;
+	width: 100%;
 	height: 400px;
-	width: auto;
+	position: relative;
 }
 
 .slide {
 	float: left;
 	position: absolute;
+	width: 100%;
+	height: 100%;
 	opacity: 0;
 	transition: opacity 3s linear;
-	height: 400px;
-	width: auto;
-	padding-top: 20px;
-    
 }
 
 .slider-wrapper > .slide:first-child {
