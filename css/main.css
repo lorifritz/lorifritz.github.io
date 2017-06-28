@@ -73,9 +73,10 @@ color: black;
 }
 
 #story4 {
-    background:url(http://plumberorlando.com/wp-content/uploads/2014/10/banner-image1.jpg no-repeat;
+    background:url(http://plumberorlando.com/wp-content/uploads/2014/10/banner-image1.jpg) no-repeat;
+	    }
 	
-}
+
 
 .slider {
 	width: 1024px;
