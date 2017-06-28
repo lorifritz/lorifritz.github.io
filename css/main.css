@@ -60,20 +60,8 @@ color: black;
 #story {
   width: 100%;
 	height: 400px;
+	display: cover;
 }
-
-#story2 {
-  
-}
-
-#story3 {
-    
-}
-
-#story4 {
-   
-	    }
-	
 
 
 .slider {
