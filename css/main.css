@@ -35,7 +35,7 @@ ul {
 	    padding: 20px 0 20px 0;
     }
 
-a {
+#nav_container a {
    display: inline-block;
 	height: 50%;
    text-decoration: none;
@@ -45,7 +45,7 @@ a {
 	border-bottom: 2px transparent;
     }
 
-    a:hover {
+    #nav_container a:hover {
 	    font-weight: bold;
 border-bottom: 2px solid white;
 	 display: inline-block;
