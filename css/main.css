@@ -89,6 +89,10 @@ color: black;
 	display: cover;
 }
 
+slider-wrapper > img {
+widh: 100%;	
+}
+	
 .slide {
 	float: left;
 	position: absolute;
