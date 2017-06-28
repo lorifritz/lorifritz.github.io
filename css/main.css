@@ -4,6 +4,10 @@ body {
 	background-image: url('http://i67.tinypic.com/23wtvnl.jpg');
 }
 
+* {
+	box-sizing: border-box;
+}
+
 #logo {
 	display: block;
 	position: relative;
