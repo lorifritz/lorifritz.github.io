@@ -85,7 +85,7 @@ html,body {
 	height: 400px;
 	
 	margin: 2em auto;
-	display: cover;
+	width: 100%
 	
 }
 
@@ -94,6 +94,7 @@ html,body {
 	right: 0;
 	left: 0;
 	height: 400px;
+	width: auto;
 }
 
 .slide {
@@ -102,7 +103,7 @@ html,body {
 	opacity: 0;
 	transition: opacity 3s linear;
 	height: 400px;
-	
+	width: auto;
 	padding-top: 20px;
     
 }
