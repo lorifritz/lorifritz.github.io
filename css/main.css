@@ -110,3 +110,10 @@ color: black;
 .slider-wrapper > .slide:first-child {
 	opacity: 1;
 }
+footer {
+	font-family: century gothic, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	float: left;
+	margin-left: 10px;
+	margin-bottom: 5px;
+}
