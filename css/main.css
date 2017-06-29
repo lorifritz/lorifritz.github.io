@@ -81,7 +81,7 @@ color: black;
 	font-family: century gothic, Arial, Helvetica, sans-serif;
 	font-size: 32px;
 	font-weight: bold;
-	margin: 20px 5px 10px 5px;
+	margin: 20px 5px 25px 5px;
 }
 
 .slider {
@@ -113,7 +113,7 @@ color: black;
 footer {
 	font-family: century gothic, Arial, Helvetica, sans-serif;
 	font-weight: bold;
-	float: left;
-	margin-left: 10px;
+	float: right;
+	margin-right: 10px;
 	margin-bottom: 5px;
 }
