@@ -62,8 +62,8 @@ border-bottom: 2px solid white;
 }
 
 .supporting .column {
- 
-  width: 21%;
+ float: left;
+  width: 25%;
   font-family: 'Raleway', sans-serif;
   text-align: center;
 	margin-right: 20px;
