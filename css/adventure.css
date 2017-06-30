@@ -16,7 +16,6 @@ body {
     height: auto;
 	font-size: 60px;
   font-family: century gothic, Arial, Helvetica, sans-serif;
-  color: white;
 	margin-top: 25px;
 	background-color: #24478f;
 }
@@ -90,4 +89,7 @@ p {
 
 .container {
 	margin-left: -5px;
+}
+.column {
+	background-color: white;
 }
