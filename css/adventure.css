@@ -93,4 +93,6 @@ font-family: century gothic, Arial, Helvetica, sans-serif;
 .container {
 	margin-left: -5px;
 }
-
+.btn-default {
+	padding-bottom: 30px;
+}
