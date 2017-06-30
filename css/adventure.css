@@ -58,3 +58,9 @@ border-bottom: 2px solid white;
 	margin: 20px;
 	float: left;
 }
+.snorkel {
+	height: 400px;
+	width: 400px;
+	margin: 20px;
+	float: right;
+}
