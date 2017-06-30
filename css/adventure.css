@@ -66,6 +66,8 @@ border-bottom: 2px solid white;
   width: 25%;
   font-family: 'Raleway', sans-serif;
   text-align: center;
+	margin-right: 20px;
+	margin-left: 20px;
 }
 
 .supporting img {
@@ -90,6 +92,4 @@ p {
 .container {
 	margin-left: -5px;
 }
-.column {
-	background-color: white;
-}
+
