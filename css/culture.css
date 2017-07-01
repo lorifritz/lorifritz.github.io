@@ -95,9 +95,9 @@ font-family: century gothic, Arial, Helvetica, sans-serif;
 }
 
 .supporting p {
-	
+	padding: 0px 40px 30px 40px;
 	font-family: century gothic, Arial, Helvetica, sans-serif;
-	padding-bottom: 30px;
+	
 }
 
 .container {
