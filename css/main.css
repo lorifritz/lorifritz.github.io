@@ -81,7 +81,7 @@ color: black;
 }
 
 .full {
-	text-align: center;
+	float: right;
 	margin-right: 15px;
 	font-size: 24px;
 	font-weight: bold;
