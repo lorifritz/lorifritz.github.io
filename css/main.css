@@ -58,7 +58,7 @@ border-bottom: 2px solid white;
 	    
     }
 
-#nav_container a::after {
+a::after {
     display:inline-block;
     content:attr(title);
     font-weight:bold;
