@@ -16,9 +16,9 @@ body {
     height: auto;
 	font-size: 60px;
   font-family: century gothic, Arial, Helvetica, sans-serif;
+  color: white;
 	margin-top: 25px;
 	background-color: #24478f;
-	color: white;
 }
 
 ul {
@@ -32,11 +32,12 @@ ul {
     
     li {
         display: inline-block;
+	    border-bottom: 2px solid #24478f;
         margin-right: 0px;
         margin-left: 0px;
         width: 15%;
         height: 100%;
-	    padding: 20px 0 20px 0;
+	   padding: 20px;
     }
 
 #nav_container a {
@@ -46,16 +47,21 @@ ul {
    color: white;
 	font-size:24px;
 	font-family: century gothic, Arial, Helvetica, sans-serif;
-	border-bottom: 2px transparent;
+	border-bottom: 2px solid #24478f;
+	margin:20px
     }
 
     #nav_container a:hover {
 	    font-weight: bold;
 border-bottom: 2px solid white;
-	 display: inline-block;
-	    
+	   margin: 10px;
     }
 
+	  #nav_container a::after {
+	    font-weight: bold;
+border-bottom: 2px solid #24478f;
+		  overflow: hidden;
+    }
 
 .supporting {
   margin-top: 50px;
