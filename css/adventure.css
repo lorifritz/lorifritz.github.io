@@ -20,11 +20,11 @@ body {
 	margin-top: 50px;
 	background-color: #24478f;
 	padding-top: 15px;
-	position: fixed;
+	position: absolute;
 }
 
 ul {
-	position:fixed;
+	position:absolute;
     text-align: center;
     background-color: #24478f;
     display: cover;
