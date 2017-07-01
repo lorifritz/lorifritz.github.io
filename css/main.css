@@ -58,7 +58,7 @@ border-bottom: 2px solid white;
 	    
     }
 
-#nav_container a:after {
+#nav_container a::after {
     display:inline-block;
     content:attr(title);
     font-weight:bold;
@@ -66,8 +66,8 @@ border-bottom: 2px solid white;
     color:transparent;
     overflow:hidden;
     visibility:hidden;
-    margin-bottom:-1px;
-	margin-top:-1px;
+    margin-bottom:-3px;
+	margin-top:-3px;
 }
 
 
