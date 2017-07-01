@@ -56,6 +56,7 @@ ul {
     #nav_container a:hover {
 	    font-weight: bold;
 border-bottom: 2px solid white;
+	    font-size: 22px;
     }
 
 	  #nav_container a::after {
