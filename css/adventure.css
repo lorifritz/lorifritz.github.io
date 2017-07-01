@@ -110,6 +110,7 @@ font-family: century gothic, Arial, Helvetica, sans-serif;
 
 .container {
 	margin-left: -5px;
+	margin-bottom: 100px;
 }
 .morph {
   -webkit-transition: all 0.5s ease;
