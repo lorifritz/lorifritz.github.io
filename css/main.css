@@ -11,7 +11,7 @@ body {
 
 
 #logo {
-	display: inline-block;
+	display: block;
 	position: relative;
 	text-align: center;
     width: auto;
@@ -33,7 +33,7 @@ ul {
     }
     
     li, a {
-        display: block;
+        display: inline-block;
 	    
         margin-right: 0px;
         margin-left: 0px;
