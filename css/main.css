@@ -58,6 +58,17 @@ border-bottom: 2px solid white;
 	    
     }
 
+#nav_container a::after {
+    display:inline-block;
+    content:attr(title);
+    font-weight:bold;
+    
+    color:transparent;
+    overflow:hidden;
+    visibility:hidden;
+    margin-bottom:-1px;
+}
+
 
 #main-slider a {
 color: black;
