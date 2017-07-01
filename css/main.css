@@ -39,7 +39,7 @@ ul {
         margin-left: 0px;
         width: 15%;
         height: 100%;
-	   
+	   padding: 20px;
     }
 
 #nav_container a {
@@ -50,7 +50,7 @@ ul {
 	font-size:24px;
 	font-family: century gothic, Arial, Helvetica, sans-serif;
 	border-bottom: 2px transparent;
-	padding: 20px;
+	
     }
 
     #nav_container a:hover {
