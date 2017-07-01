@@ -32,13 +32,13 @@ ul {
 	width: auto;
     }
     
-    li {
+    li, a {
         display: inline-block;
+	    text-align: center;
         margin-right: 0px;
         margin-left: 0px;
         width: 15%;
         height: 100%;
-	    padding: 20px 0 20px 0;
     }
 
 #nav_container a {
@@ -49,15 +49,24 @@ ul {
 	font-size:24px;
 	font-family: century gothic, Arial, Helvetica, sans-serif;
 	border-bottom: 2px transparent;
-	padding: 10px;
+	padding: 20px;
     }
 
     #nav_container a:hover {
 	    font-weight: bold;
 border-bottom: 2px solid white;
-	 display: inline-block;
 	    
     }
+
+	#nav_container a::after {
+			display:block;
+			content:attr(title);
+			font-weight:bold;
+			height:1px;
+			color:transparent;
+			overflow:hidden;
+			visibility:hidden;
+		}
 
 
 #main-slider a {
