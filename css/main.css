@@ -50,16 +50,18 @@ ul {
 	font-size:24px;
 	font-family: century gothic, Arial, Helvetica, sans-serif;
 	border-bottom: 2px transparent;
-	margin:30px
+	margin:20px
     }
 
     #nav_container a:hover {
 	    font-weight: bold;
 border-bottom: 2px solid white;
-	    
     }
 
-	
+	  #nav_container a::after {
+	    font-weight: bold;
+border-bottom: 2px solid transparent;
+    }
 
 
 #main-slider a {
