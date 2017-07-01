@@ -75,7 +75,8 @@ border-bottom: 2px solid white;
 	margin-top: 30px;
   height: 250px;
 	width: 250px;
-	border: 10px outset solid #24478f;
+	border: 10px solid #24478f;
+	border-style: outset;
 }
 
 .supporting h2 {
