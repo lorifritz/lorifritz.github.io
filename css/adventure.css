@@ -83,7 +83,48 @@ border-bottom: 2px solid #24478f;
 	margin-top: 30px;
   height: 250px;
 	width: 250px;
-	border: 10px solid #24478f;
+	border: 10px solid 
+   text-decoration: none;
+   color: white;
+	font-size:24px;
+	font-family: century gothic, Arial, Helvetica, sans-serif;
+	border-bottom: 2px solid #24478f;
+	margin:20px
+    }
+
+    #nav_container a:hover {
+	    font-weight: bold;
+border-bottom: 2px solid white;
+	   margin: 10px;
+    }
+
+	  #nav_container a::after {
+	    font-weight: bold;
+border-bottom: 2px solid #24478f;
+		  overflow: hidden;
+    }
+
+
+.supporting {
+  margin-top: 50px;
+  padding-bottom: 100px;
+}
+
+.supporting .column {
+ float: left;
+  width: 25%;
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+	background-color: white;
+	padding-bottom: 30px;
+}
+
+.supporting img {
+	margin-top: 30px;
+  height: 250px;
+	width: 250px;
+	border: 10px solid #28d464;
+
 	
 }
 
