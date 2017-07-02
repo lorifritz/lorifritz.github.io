@@ -76,6 +76,8 @@ color: black;
 .link {
 	float: left;
 	margin-left: 15px;
+	margin-top: 3px;
+	mmargin-bottom: 0px;
 	font-size: 48px;
 	font-weight: bold;
 	background: rgba(255, 255, 255, 0.5);
