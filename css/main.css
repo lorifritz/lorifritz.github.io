@@ -75,9 +75,6 @@ border-bottom: 2px solid #24478f;
   margin: auto;
 }
 
-.mySlides {
-	display: none;
-}
 
 .slideshow-container > .mySlides:first-child {
 	opacity: 1;
