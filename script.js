@@ -50,3 +50,7 @@
 	
 	
 })();
+$('#story2').each(function() {
+  var link = $(this).html();
+  $(this).contents().wrap('<a href="http://www.orlandosentinel.com/travel/os-florida-summer-travel-hotel-deals-20170531-story.html"></a>');
+});
