@@ -133,9 +133,7 @@ img {
 	transition: opacity 3s linear;
 }
 
-.slider-wrapper > .slide:first-child {
-	opacity: 1;
-}
+
 footer {
 	font-family: century gothic, Arial, Helvetica, sans-serif;
 	font-weight: bold;
