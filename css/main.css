@@ -79,7 +79,7 @@ border-bottom: 2px solid #24478f;
 	display: none;
 }
 
-.slideshow-container > .slide:first-child {
+.slideshow-container > .mySlides:first-child {
 	opacity: 1;
 }
 
