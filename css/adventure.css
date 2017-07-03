@@ -134,3 +134,8 @@ font-family: century gothic, Arial, Helvetica, sans-serif;
           transform: rotate(360deg);
 }
 
+.btn-default {
+	border: 4px solid black;
+	font-weight: bold;
+	font-color: #24478f;
+}
