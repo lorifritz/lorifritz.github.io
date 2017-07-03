@@ -65,9 +65,11 @@ border-bottom: 2px solid #24478f;
     }
 
 
+
 .supporting {
   margin-top: 50px;
-  padding-bottom: 100px;
+	padding-bottom: 100px;
+  
 }
 
 .supporting .column {
@@ -77,10 +79,13 @@ border-bottom: 2px solid #24478f;
   text-align: center;
 	background-color: white;
 	padding-bottom: 30px;
+	margin-bottom: 100px;
+	height: 900px;
 }
 
 .supporting img {
-	margin-top: 30px;
+	margin-top: 40px;
+	margin-bottom: 20px;
   height: 250px;
 	width: 250px;
 	border: 10px solid #f7754a;
@@ -99,13 +104,16 @@ font-family: century gothic, Arial, Helvetica, sans-serif;
 	
 	font-family: century gothic, Arial, Helvetica, sans-serif;
 	padding: 0px 40px 30px 40px;
+
+	
 }
 
 .container {
 	margin-left: -5px;
+	
 }
-
 .morph {
+	
   -webkit-transition: all 0.5s ease;
      -moz-transition: all 0.5s ease;
        -o-transition: all 0.5s ease;
