@@ -50,4 +50,24 @@
 	
 	
 })();
+var imageID=0;
+function changeimage(every3seconds){
+   var link = document.getElementById("mylink");
+    
+    if(!imageID){
+        document.getElementById("myimage").src="http://i67.tinypic.com/4id0yu.jpg";
+        link.setAttribute('href', "http://www.atlantamagazine.com/travel/epic-summer-road-trip-6-must-stop-florida-destinations/");
+        imageID++;
+    }
+    else{if(imageID==1){
+        document.getElementById("myimage").src="http://i66.tinypic.com/ehzsqf.jpg";
+        link.setAttribute('href', "http://www.orlandosentinel.com/travel/os-florida-summer-travel-hotel-deals-20170531-story.html");
+        imageID++;
+    }else{if(imageID==2){
+        document.getElementById("myimage").src="http://i65.tinypic.com/dbnudl.jpg";
+        link.setAttribute('href', "https://www.local10.com/travel/orlando-2-other-florida-cities-crack-top-25-for-staycation-destinations");
+        imageID=0;
+    }}}
+    
 
+}
