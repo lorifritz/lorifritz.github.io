@@ -40,18 +40,6 @@
 				
 			}, 5000);
 		},
-		stopStart: function() {
-			var self = this;
-			self.el.addEventListener( "mouseover", function() {
-				clearInterval( self.timer );
-				self.timer = null;
-				
-			}, false);
-			self.el.addEventListener( "mouseout", function() {
-				self.action();
-				
-			}, false);
-		}
 		
 		
 	};
