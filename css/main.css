@@ -75,7 +75,13 @@ border-bottom: 2px solid #24478f;
   margin: auto;
 }
 
+.mySlides {
+	dsplay: none;
+}
 
+.slideshow-container > .slide:first-child {
+	opacity: 1;
+}
 
 /* Fading animation */
 .fade {
