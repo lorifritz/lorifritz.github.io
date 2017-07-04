@@ -69,7 +69,7 @@ border-bottom: 2px solid #24478f;
 #main-slider a {
 color: black;
 	font-family: century gothic, Arial, Helvetica, sans-serif;
-	z-index: 2;
+	z-index: 4;
 }
 img {
 	width: 100%;
@@ -136,7 +136,7 @@ img {
 }
 #story1 {
 	background:url(http://i67.tinypic.com/4id0yu.jpg) no-repeat;
-	z-index: -1;
+	z-index: 4;
 }
 #story2 {
 	
