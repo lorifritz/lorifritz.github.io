@@ -136,19 +136,19 @@ img {
 }
 #story1 {
 	background:url(http://i67.tinypic.com/4id0yu.jpg) no-repeat;
-	z-index: -1;
+	z-index: 6;
 }
 #story2 {
 	background:url(http://i66.tinypic.com/ehzsqf.jpg) no-repeat;
-	z-index: 2;
+	z-index: 4;
 }
 #story3 {
 	background:url(http://i65.tinypic.com/dbnudl.jpg) no-repeat;
-	z-index: 4;
+	z-index: 2;
 }
 #story4 {
 	background:url(http://i65.tinypic.com/30hsyrp.jpg) no-repeat;
-	z-index: 6;
+	z-index: -1;
 }
 #link1{
 z-index: 1;	
