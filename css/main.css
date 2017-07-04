@@ -140,15 +140,15 @@ img {
 }
 #story2 {
 	background:url(http://i66.tinypic.com/ehzsqf.jpg) no-repeat;
-	z-index: 3;
+	z-index: 4;
 }
 #story3 {
 	background:url(http://i65.tinypic.com/dbnudl.jpg) no-repeat;
-	z-index: 2;
+	z-index: 4;
 }
 #story4 {
 	background:url(http://i65.tinypic.com/30hsyrp.jpg) no-repeat;
-	z-index: 1;
+	z-index: 4;
 }
 #link1{
 z-index: 5;	
