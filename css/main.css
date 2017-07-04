@@ -135,19 +135,17 @@ img {
 	opacity: 1;
 }
 #story1 {
-	background:url(http://i67.tinypic.com/4id0yu.jpg) no-repeat;
+	
 	z-index: 7;
 }
 #story2 {
-	background:url(http://i66.tinypic.com/ehzsqf.jpg) no-repeat;
+	
 	z-index: 5;
 }
 #story3 {
-	background:url(http://i65.tinypic.com/dbnudl.jpg) no-repeat;
 	z-index: 3;
 }
 #story4 {
-	background:url(http://i65.tinypic.com/30hsyrp.jpg) no-repeat;
 	z-index: 1;
 }
 #link1{
