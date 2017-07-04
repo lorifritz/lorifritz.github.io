@@ -69,7 +69,7 @@ border-bottom: 2px solid #24478f;
 #main-slider a {
 color: black;
 	font-family: century gothic, Arial, Helvetica, sans-serif;
-	z-index: 4;
+	
 }
 img {
 	width: 100%;
@@ -139,11 +139,26 @@ img {
 	z-index: 4;
 }
 #story2 {
-	
+	background:url(http://i66.tinypic.com/ehzsqf.jpg) no-repeat;
+	z-index: 3;
 }
 #story3 {
-	
+	background:url(http://i65.tinypic.com/dbnudl.jpg) no-repeat;
+	z-index: 2;
 }
 #story4 {
-	
+	background:url(http://i65.tinypic.com/30hsyrp.jpg) no-repeat;
+	z-index: 1;
+}
+#link1{
+z-index: 4;	
+}
+#link2 {
+z-index: 3;	
+}
+#link3 {
+z-index: 2;	
+}
+#link4 {
+z-index: 1;	
 }
