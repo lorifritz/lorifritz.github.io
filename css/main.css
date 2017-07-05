@@ -160,7 +160,10 @@ img {
 #link4 {
 	
 }
+.slide a {
+	z-index: 1;
+}
 .slide.current a
 {
- z-index:2;
+ z-index: 2;
 }
