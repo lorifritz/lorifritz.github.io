@@ -134,32 +134,7 @@ img {
 .slider-wrapper > .slide:first-child {
 	opacity: 1;
 }
-#story1 {
-	
-	z-index: ;
-}
-#story2 {
-	
-	z-index: ;
-}
-#story3 {
-	z-index: ;
-}
-#story4 {
-	z-index: ;
-}
-#link1{
-	
-}
-#link2 {
-	
-}
-#link3 {
-	
-}
-#link4 {
-	
-}
+
 .slide a {
 	z-index: 1;
 }
