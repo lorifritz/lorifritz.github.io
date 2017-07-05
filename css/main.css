@@ -136,17 +136,17 @@ img {
 }
 #story1 {
 	
-	z-index: 7;
+	z-index: ;
 }
 #story2 {
 	
-	z-index: 5;
+	z-index: ;
 }
 #story3 {
-	z-index: 3;
+	z-index: ;
 }
 #story4 {
-	z-index: 1;
+	z-index: ;
 }
 #link1{
 	
@@ -159,4 +159,8 @@ img {
 }
 #link4 {
 	
+}
+.slide.current
+{
+ z-index:2;
 }
