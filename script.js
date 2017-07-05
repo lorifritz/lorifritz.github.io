@@ -36,7 +36,7 @@
 				}
 				self._slideTo( self.index );
 				
-			}, 5200);
+			}, 5000);
 		},
 		
 		
